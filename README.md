@@ -61,7 +61,7 @@ npm install react-icons --save
 1. Clone the repo
 
    ```
-   git clone git@github.com:nss-day-cohort-51/nutshell-ghoul-diggers.git
+   git clone git@github.com:SusieCodes/nutshell.git
    ```
 
 1. Run this command inside of the Nutshell API directory.
